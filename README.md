@@ -5,3 +5,5 @@ Max pooling is used here, but refinements may be made using average pooling inst
 a softer activation function such as SoftPlus may also be a good option.
 
 The script also takes in an optional command-line argument that specifies a file in which to save the neural network model. Mine is uploaded here for reference.
+
+The data is collected form the German Traffic Sign Recognition Benchmark (GTSRB).
